@@ -1,0 +1,1 @@
+[![alt](https://codenvy-dev.com/factory/resources/factory-white.png)](https://codenvy-dev.com/factory?v=1.0&pname=untitled&wname=vitaly.parfonov&vcs=git&vcsurl=http%3A%2F%2Fcodenvy-dev.com%2Fgit%2Fa9%2Fbb%2F06%2Fworkspacentjpdqvbulgib3n3%2Funtitled&idcommit=7ca2f18e4dbd3afc60448514010ebdd97a75ceb2&action=openproject&ptype=Android)
